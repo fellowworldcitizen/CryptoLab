@@ -1,0 +1,1357 @@
+.holding{
+	background-color:#f3f9e8;
+	border:1px solid black;
+	margin-bottom:5px;	
+}
+
+.holding_transaction{
+	display:none;
+	background-color:#fdfff9;
+	border:1px solid black;
+	margin-bottom:5px;	
+}
+
+.transaction{
+	background-color:#ddeaff;
+	border-bottom:1px solid black;
+}
+
+.holdings_per_exchange
+{
+	display:inline;
+	font-size:11px;
+}
+
+.investment_container
+{
+	background-color:#ffefe0;
+	border:1px solid black;
+	margin-bottom:5px;	
+}
+
+.title{
+	font-weight:bold;
+}
+
+.timestamp{
+	display:none;
+}
+
+.holding_coins th{
+	text-align:left;
+}
+
+.holding_cur{
+	padding-left:22px;
+	background-repeat: no-repeat;
+  	background-size: 18px;
+}
+
+.ingoing_outgoing_container{
+	margin-top:10px;
+}
+
+.ingoing_outgoing_cur{
+	border-top:1px solid black;
+	border-bottom:1px solid black;
+}
+
+.error{
+	border-top:1px solid black;
+}
+
+.error_container{
+	background-color:#ffc6c6;
+	margin-bottom:5px;
+	border:1px solid black;
+}
+
+.max_investment_container{
+	background-color:#ffefe0;
+	border:1px solid black;
+	margin-bottom:5px;	
+}
+
+.debug_container
+{
+	border:1px solid black;
+	margin-bottom:5px;	
+}
+
+
+
+.$PAC{
+	background-image:url('img/$pac.png');
+}
+.0XBTC{
+	background-image:url('img/0xbtc.png');
+}
+.2GIVE{
+	background-image:url('img/2give.png');
+}
+.ABT{
+	background-image:url('img/abt.png');
+}
+.ACT{
+	background-image:url('img/act.png');
+}
+.ACTN{
+	background-image:url('img/actn.png');
+}
+.ADA{
+	background-image:url('img/ada.png');
+}
+.ADD{
+	background-image:url('img/add.png');
+}
+.ADX{
+	background-image:url('img/adx.png');
+}
+.AE{
+	background-image:url('img/ae.png');
+}
+.AEON{
+	background-image:url('img/aeon.png');
+}
+.AEUR{
+	background-image:url('img/aeur.png');
+}
+.AGI{
+	background-image:url('img/agi.png');
+}
+.AGRS{
+	background-image:url('img/agrs.png');
+}
+.AION{
+	background-image:url('img/aion.png');
+}
+.AMB{
+	background-image:url('img/amb.png');
+}
+.AMP{
+	background-image:url('img/amp.png');
+}
+.ANT{
+	background-image:url('img/ant.png');
+}
+.APEX{
+	background-image:url('img/apex.png');
+}
+.APPC{
+	background-image:url('img/appc.png');
+}
+.ARDR{
+	background-image:url('img/ardr.png');
+}
+.ARG{
+	background-image:url('img/arg.png');
+}
+.ARK{
+	background-image:url('img/ark.png');
+}
+.ARN{
+	background-image:url('img/arn.png');
+}
+.ARY{
+	background-image:url('img/ary.png');
+}
+.AST{
+	background-image:url('img/ast.png');
+}
+.ATM{
+	background-image:url('img/atm.png');
+}
+.ATOM{
+	background-image:url('img/atom.png');
+}
+.AUDR{
+	background-image:url('img/audr.png');
+}
+.AUTO{
+	background-image:url('img/auto.png');
+}
+.AYWA{
+	background-image:url('img/aywa.png');
+}
+.BAB{
+	background-image:url('img/bab.png');
+}
+.BAT{
+	background-image:url('img/bat.png');
+}
+.BAY{
+	background-image:url('img/bay.png');
+}
+.BCBC{
+	background-image:url('img/bcbc.png');
+}
+.BCC{
+	background-image:url('img/bcc.png');
+}
+.BCD{
+	background-image:url('img/bcd.png');
+}
+.BCH{
+	background-image:url('img/bch.png');
+}
+.BCIO{
+	background-image:url('img/bcio.png');
+}
+.BCN{
+	background-image:url('img/bcn.png');
+}
+.BCO{
+	background-image:url('img/bco.png');
+}
+.BCPT{
+	background-image:url('img/bcpt.png');
+}
+.BDL{
+	background-image:url('img/bdl.png');
+}
+.BEAM{
+	background-image:url('img/beam.png');
+}
+.BELA{
+	background-image:url('img/bela.png');
+}
+.BIX{
+	background-image:url('img/bix.png');
+}
+.BLCN{
+	background-image:url('img/blcn.png');
+}
+.BLK{
+	background-image:url('img/blk.png');
+}
+.BLOCK{
+	background-image:url('img/block.png');
+}
+.BLZ{
+	background-image:url('img/blz.png');
+}
+.BNB{
+	background-image:url('img/bnb.png');
+}
+.BNT{
+	background-image:url('img/bnt.png');
+}
+.BNTY{
+	background-image:url('img/bnty.png');
+}
+.BOOTY{
+	background-image:url('img/booty.png');
+}
+.BOS{
+	background-image:url('img/bos.png');
+}
+.BPT{
+	background-image:url('img/bpt.png');
+}
+.BQ{
+	background-image:url('img/bq.png');
+}
+.BRD{
+	background-image:url('img/brd.png');
+}
+.BSD{
+	background-image:url('img/bsd.png');
+}
+.BSV{
+	background-image:url('img/bsv.png');
+}
+.BTC{
+	background-image:url('img/btc.png');
+}
+.BTCD{
+	background-image:url('img/btcd.png');
+}
+.BTCH{
+	background-image:url('img/btch.png');
+}
+.BTCP{
+	background-image:url('img/btcp.png');
+}
+.BTCZ{
+	background-image:url('img/btcz.png');
+}
+.BTDX{
+	background-image:url('img/btdx.png');
+}
+.BTG{
+	background-image:url('img/btg.png');
+}
+.BTM{
+	background-image:url('img/btm.png');
+}
+.BTS{
+	background-image:url('img/bts.png');
+}
+.BTT{
+	background-image:url('img/btt.png');
+}
+.BTX{
+	background-image:url('img/btx.png');
+}
+.BURST{
+	background-image:url('img/burst.png');
+}
+.CALL{
+	background-image:url('img/call.png');
+}
+.CC{
+	background-image:url('img/cc.png');
+}
+.CDN{
+	background-image:url('img/cdn.png');
+}
+.CDT{
+	background-image:url('img/cdt.png');
+}
+.CENZ{
+	background-image:url('img/cenz.png');
+}
+.CHAIN{
+	background-image:url('img/chain.png');
+}
+.CHAT{
+	background-image:url('img/chat.png');
+}
+.CHIPS{
+	background-image:url('img/chips.png');
+}
+.CIX{
+	background-image:url('img/cix.png');
+}
+.CLAM{
+	background-image:url('img/clam.png');
+}
+.CLOAK{
+	background-image:url('img/cloak.png');
+}
+.CMM{
+	background-image:url('img/cmm.png');
+}
+.CMT{
+	background-image:url('img/cmt.png');
+}
+.CND{
+	background-image:url('img/cnd.png');
+}
+.CNX{
+	background-image:url('img/cnx.png');
+}
+.CNY{
+	background-image:url('img/cny.png');
+}
+.COB{
+	background-image:url('img/cob.png');
+}
+.COLX{
+	background-image:url('img/colx.png');
+}
+.COQUI{
+	background-image:url('img/coqui.png');
+}
+.CRED{
+	background-image:url('img/cred.png');
+}
+.CRPT{
+	background-image:url('img/crpt.png');
+}
+.CRW{
+	background-image:url('img/crw.png');
+}
+.CS{
+	background-image:url('img/cs.png');
+}
+.CTR{
+	background-image:url('img/ctr.png');
+}
+.CTXC{
+	background-image:url('img/ctxc.png');
+}
+.CVC{
+	background-image:url('img/cvc.png');
+}
+.D{
+	background-image:url('img/d.png');
+}
+.DAI{
+	background-image:url('img/dai.png');
+}
+.DASH{
+	background-image:url('img/dash.png');
+}
+.DAT{
+	background-image:url('img/dat.png');
+}
+.DATA{
+	background-image:url('img/data.png');
+}
+.DBC{
+	background-image:url('img/dbc.png');
+}
+.DCN{
+	background-image:url('img/dcn.png');
+}
+.DCR{
+	background-image:url('img/dcr.png');
+}
+.DEEZ{
+	background-image:url('img/deez.png');
+}
+.DENT{
+	background-image:url('img/dent.png');
+}
+.DEW{
+	background-image:url('img/dew.png');
+}
+.DGB{
+	background-image:url('img/dgb.png');
+}
+.DGD{
+	background-image:url('img/dgd.png');
+}
+.DLT{
+	background-image:url('img/dlt.png');
+}
+.DNT{
+	background-image:url('img/dnt.png');
+}
+.DOCK{
+	background-image:url('img/dock.png');
+}
+.DOGE{
+	background-image:url('img/doge.png');
+}
+.DRGN{
+	background-image:url('img/drgn.png');
+}
+.DROP{
+	background-image:url('img/drop.png');
+}
+.DTA{
+	background-image:url('img/dta.png');
+}
+.DTH{
+	background-image:url('img/dth.png');
+}
+.DTR{
+	background-image:url('img/dtr.png');
+}
+.EBST{
+	background-image:url('img/ebst.png');
+}
+.ECA{
+	background-image:url('img/eca.png');
+}
+.EDG{
+	background-image:url('img/edg.png');
+}
+.EDO{
+	background-image:url('img/edo.png');
+}
+.EDOGE{
+	background-image:url('img/edoge.png');
+}
+.ELA{
+	background-image:url('img/ela.png');
+}
+.ELEC{
+	background-image:url('img/elec.png');
+}
+.ELF{
+	background-image:url('img/elf.png');
+}
+.ELIX{
+	background-image:url('img/elix.png');
+}
+.ELLA{
+	background-image:url('img/ella.png');
+}
+.EMC{
+	background-image:url('img/emc.png');
+}
+.EMC2{
+	background-image:url('img/emc2.png');
+}
+.ENG{
+	background-image:url('img/eng.png');
+}
+.ENJ{
+	background-image:url('img/enj.png');
+}
+.ENTRP{
+	background-image:url('img/entrp.png');
+}
+.EON{
+	background-image:url('img/eon.png');
+}
+.EOP{
+	background-image:url('img/eop.png');
+}
+.EOS{
+	background-image:url('img/eos.png');
+}
+.EQLI{
+	background-image:url('img/eqli.png');
+}
+.EQUA{
+	background-image:url('img/equa.png');
+}
+.ETC{
+	background-image:url('img/etc.png');
+}
+.ETH{
+	background-image:url('img/eth.png');
+}
+.ETHOS{
+	background-image:url('img/ethos.png');
+}
+.ETN{
+	background-image:url('img/etn.png');
+}
+.ETP{
+	background-image:url('img/etp.png');
+}
+.EUR{
+	background-image:url('img/eur.png');
+}
+.EVX{
+	background-image:url('img/evx.png');
+}
+.EXMO{
+	background-image:url('img/exmo.png');
+}
+.EXP{
+	background-image:url('img/exp.png');
+}
+.FAIR{
+	background-image:url('img/fair.png');
+}
+.FCT{
+	background-image:url('img/fct.png');
+}
+.FIL{
+	background-image:url('img/fil.png');
+}
+.FJC{
+	background-image:url('img/fjc.png');
+}
+.FLDC{
+	background-image:url('img/fldc.png');
+}
+.FLO{
+	background-image:url('img/flo.png');
+}
+.FSN{
+	background-image:url('img/fsn.png');
+}
+.FTC{
+	background-image:url('img/ftc.png');
+}
+.FUEL{
+	background-image:url('img/fuel.png');
+}
+.FUN{
+	background-image:url('img/fun.png');
+}
+.GAME{
+	background-image:url('img/game.png');
+}
+.GAS{
+	background-image:url('img/gas.png');
+}
+.GBP{
+	background-image:url('img/gbp.png');
+}
+.GBX{
+	background-image:url('img/gbx.png');
+}
+.GBYTE{
+	background-image:url('img/gbyte.png');
+}
+.GENERIC{
+	background-image:url('img/generic.png');
+}
+.GIN{
+	background-image:url('img/gin.png');
+}
+.GLXT{
+	background-image:url('img/glxt.png');
+}
+.GMR{
+	background-image:url('img/gmr.png');
+}
+.GNO{
+	background-image:url('img/gno.png');
+}
+.GNT{
+	background-image:url('img/gnt.png');
+}
+.GOLD{
+	background-image:url('img/gold.png');
+}
+.GRC{
+	background-image:url('img/grc.png');
+}
+.GRIN{
+	background-image:url('img/grin.png');
+}
+.GRS{
+	background-image:url('img/grs.png');
+}
+.GSC{
+	background-image:url('img/gsc.png');
+}
+.GTO{
+	background-image:url('img/gto.png');
+}
+.GUP{
+	background-image:url('img/gup.png');
+}
+.GUSD{
+	background-image:url('img/gusd.png');
+}
+.GVT{
+	background-image:url('img/gvt.png');
+}
+.GXS{
+	background-image:url('img/gxs.png');
+}
+.GZR{
+	background-image:url('img/gzr.png');
+}
+.HIGHT{
+	background-image:url('img/hight.png');
+}
+.HODL{
+	background-image:url('img/hodl.png');
+}
+.HOT{
+	background-image:url('img/hot.png');
+}
+.HPB{
+	background-image:url('img/hpb.png');
+}
+.HSR{
+	background-image:url('img/hsr.png');
+}
+.HT{
+	background-image:url('img/ht.png');
+}
+.HTML{
+	background-image:url('img/html.png');
+}
+.HUC{
+	background-image:url('img/huc.png');
+}
+.HUSH{
+	background-image:url('img/hush.png');
+}
+.ICN{
+	background-image:url('img/icn.png');
+}
+.ICX{
+	background-image:url('img/icx.png');
+}
+.IGNIS{
+	background-image:url('img/ignis.png');
+}
+.ILK{
+	background-image:url('img/ilk.png');
+}
+.INK{
+	background-image:url('img/ink.png');
+}
+.INS{
+	background-image:url('img/ins.png');
+}
+.ION{
+	background-image:url('img/ion.png');
+}
+.IOP{
+	background-image:url('img/iop.png');
+}
+.IOST{
+	background-image:url('img/iost.png');
+}
+.IOTX{
+	background-image:url('img/iotx.png');
+}
+.IQ{
+	background-image:url('img/iq.png');
+}
+.ITC{
+	background-image:url('img/itc.png');
+}
+.JNT{
+	background-image:url('img/jnt.png');
+}
+.JPY{
+	background-image:url('img/jpy.png');
+}
+.KCS{
+	background-image:url('img/kcs.png');
+}
+.KIN{
+	background-image:url('img/kin.png');
+}
+.KMD{
+	background-image:url('img/kmd.png');
+}
+.KNC{
+	background-image:url('img/knc.png');
+}
+.KRB{
+	background-image:url('img/krb.png');
+}
+.LBC{
+	background-image:url('img/lbc.png');
+}
+.LEND{
+	background-image:url('img/lend.png');
+}
+.LINK{
+	background-image:url('img/link.png');
+}
+.LKK{
+	background-image:url('img/lkk.png');
+}
+.LOOM{
+	background-image:url('img/loom.png');
+}
+.LPT{
+	background-image:url('img/lpt.png');
+}
+.LRC{
+	background-image:url('img/lrc.png');
+}
+.LSK{
+	background-image:url('img/lsk.png');
+}
+.LTC{
+	background-image:url('img/ltc.png');
+}
+.LUN{
+	background-image:url('img/lun.png');
+}
+.MAID{
+	background-image:url('img/maid.png');
+}
+.MANA{
+	background-image:url('img/mana.png');
+}
+.MCAP{
+	background-image:url('img/mcap.png');
+}
+.MCO{
+	background-image:url('img/mco.png');
+}
+.MDA{
+	background-image:url('img/mda.png');
+}
+.MDS{
+	background-image:url('img/mds.png');
+}
+.MED{
+	background-image:url('img/med.png');
+}
+.MEETONE{
+	background-image:url('img/meetone.png');
+}
+.MFT{
+	background-image:url('img/mft.png');
+}
+.MIOTA{
+	background-image:url('img/miota.png');
+}
+.MITH{
+	background-image:url('img/mith.png');
+}
+.MKR{
+	background-image:url('img/mkr.png');
+}
+.MLN{
+	background-image:url('img/mln.png');
+}
+.MNX{
+	background-image:url('img/mnx.png');
+}
+.MNZ{
+	background-image:url('img/mnz.png');
+}
+.MOAC{
+	background-image:url('img/moac.png');
+}
+.MOD{
+	background-image:url('img/mod.png');
+}
+.MONA{
+	background-image:url('img/mona.png');
+}
+.MSR{
+	background-image:url('img/msr.png');
+}
+.MTH{
+	background-image:url('img/mth.png');
+}
+.MTL{
+	background-image:url('img/mtl.png');
+}
+.MUSIC{
+	background-image:url('img/music.png');
+}
+.MZC{
+	background-image:url('img/mzc.png');
+}
+.NANO{
+	background-image:url('img/nano.png');
+}
+.NAS{
+	background-image:url('img/nas.png');
+}
+.NAV{
+	background-image:url('img/nav.png');
+}
+.NCASH{
+	background-image:url('img/ncash.png');
+}
+.NDZ{
+	background-image:url('img/ndz.png');
+}
+.NEBL{
+	background-image:url('img/nebl.png');
+}
+.NEO{
+	background-image:url('img/neo.png');
+}
+.NEOS{
+	background-image:url('img/neos.png');
+}
+.NEU{
+	background-image:url('img/neu.png');
+}
+.NEXO{
+	background-image:url('img/nexo.png');
+}
+.NGC{
+	background-image:url('img/ngc.png');
+}
+.NIO{
+	background-image:url('img/nio.png');
+}
+.NLC2{
+	background-image:url('img/nlc2.png');
+}
+.NLG{
+	background-image:url('img/nlg.png');
+}
+.NMC{
+	background-image:url('img/nmc.png');
+}
+.NPXS{
+	background-image:url('img/npxs.png');
+}
+.NULS{
+	background-image:url('img/nuls.png');
+}
+.NXS{
+	background-image:url('img/nxs.png');
+}
+.NXT{
+	background-image:url('img/nxt.png');
+}
+.OAX{
+	background-image:url('img/oax.png');
+}
+.OK{
+	background-image:url('img/ok.png');
+}
+.OMG{
+	background-image:url('img/omg.png');
+}
+.OMNI{
+	background-image:url('img/omni.png');
+}
+.ONG{
+	background-image:url('img/ong.png');
+}
+.ONT{
+	background-image:url('img/ont.png');
+}
+.OOT{
+	background-image:url('img/oot.png');
+}
+.OST{
+	background-image:url('img/ost.png');
+}
+.OX{
+	background-image:url('img/ox.png');
+}
+.PART{
+	background-image:url('img/part.png');
+}
+.PASC{
+	background-image:url('img/pasc.png');
+}
+.PASL{
+	background-image:url('img/pasl.png');
+}
+.PAX{
+	background-image:url('img/pax.png');
+}
+.PAY{
+	background-image:url('img/pay.png');
+}
+.PAYX{
+	background-image:url('img/payx.png');
+}
+.PINK{
+	background-image:url('img/pink.png');
+}
+.PIRL{
+	background-image:url('img/pirl.png');
+}
+.PIVX{
+	background-image:url('img/pivx.png');
+}
+.PLR{
+	background-image:url('img/plr.png');
+}
+.POA{
+	background-image:url('img/poa.png');
+}
+.POE{
+	background-image:url('img/poe.png');
+}
+.POLIS{
+	background-image:url('img/polis.png');
+}
+.POLY{
+	background-image:url('img/poly.png');
+}
+.POT{
+	background-image:url('img/pot.png');
+}
+.POWR{
+	background-image:url('img/powr.png');
+}
+.PPC{
+	background-image:url('img/ppc.png');
+}
+.PPP{
+	background-image:url('img/ppp.png');
+}
+.PPT{
+	background-image:url('img/ppt.png');
+}
+.PRE{
+	background-image:url('img/pre.png');
+}
+.PRL{
+	background-image:url('img/prl.png');
+}
+.PUNGO{
+	background-image:url('img/pungo.png');
+}
+.PURA{
+	background-image:url('img/pura.png');
+}
+.QASH{
+	background-image:url('img/qash.png');
+}
+.QIWI{
+	background-image:url('img/qiwi.png');
+}
+.QLC{
+	background-image:url('img/qlc.png');
+}
+.QRL{
+	background-image:url('img/qrl.png');
+}
+.QSP{
+	background-image:url('img/qsp.png');
+}
+.QTUM{
+	background-image:url('img/qtum.png');
+}
+.R{
+	background-image:url('img/r.png');
+}
+.RADS{
+	background-image:url('img/rads.png');
+}
+.RAP{
+	background-image:url('img/rap.png');
+}
+.RCN{
+	background-image:url('img/rcn.png');
+}
+.RDD{
+	background-image:url('img/rdd.png');
+}
+.RDN{
+	background-image:url('img/rdn.png');
+}
+.REN{
+	background-image:url('img/ren.png');
+}
+.REP{
+	background-image:url('img/rep.png');
+}
+.REQ{
+	background-image:url('img/req.png');
+}
+.RHOC{
+	background-image:url('img/rhoc.png');
+}
+.RIC{
+	background-image:url('img/ric.png');
+}
+.RISE{
+	background-image:url('img/rise.png');
+}
+.RLC{
+	background-image:url('img/rlc.png');
+}
+.RPX{
+	background-image:url('img/rpx.png');
+}
+.RUB{
+	background-image:url('img/rub.png');
+}
+.RVN{
+	background-image:url('img/rvn.png');
+}
+.RYO{
+	background-image:url('img/ryo.png');
+}
+.SAFE{
+	background-image:url('img/safe.png');
+}
+.SALT{
+	background-image:url('img/salt.png');
+}
+.SAN{
+	background-image:url('img/san.png');
+}
+.SBD{
+	background-image:url('img/sbd.png');
+}
+.SBERBANK{
+	background-image:url('img/sberbank.png');
+}
+.SC{
+	background-image:url('img/sc.png');
+}
+.SHIFT{
+	background-image:url('img/shift.png');
+}
+.SIB{
+	background-image:url('img/sib.png');
+}
+.SKY{
+	background-image:url('img/sky.png');
+}
+.SLR{
+	background-image:url('img/slr.png');
+}
+.SLS{
+	background-image:url('img/sls.png');
+}
+.SMART{
+	background-image:url('img/smart.png');
+}
+.SNGLS{
+	background-image:url('img/sngls.png');
+}
+.SNM{
+	background-image:url('img/snm.png');
+}
+.SNT{
+	background-image:url('img/snt.png');
+}
+.SOC{
+	background-image:url('img/soc.png');
+}
+.SPANK{
+	background-image:url('img/spank.png');
+}
+.SPHTX{
+	background-image:url('img/sphtx.png');
+}
+.SRN{
+	background-image:url('img/srn.png');
+}
+.STAK{
+	background-image:url('img/stak.png');
+}
+.START{
+	background-image:url('img/start.png');
+}
+.STEEM{
+	background-image:url('img/steem.png');
+}
+.STORJ{
+	background-image:url('img/storj.png');
+}
+.STORM{
+	background-image:url('img/storm.png');
+}
+.STQ{
+	background-image:url('img/stq.png');
+}
+.STRAT{
+	background-image:url('img/strat.png');
+}
+.SUB{
+	background-image:url('img/sub.png');
+}
+.SUMO{
+	background-image:url('img/sumo.png');
+}
+.SYS{
+	background-image:url('img/sys.png');
+}
+.TAAS{
+	background-image:url('img/taas.png');
+}
+.TAU{
+	background-image:url('img/tau.png');
+}
+.TBX{
+	background-image:url('img/tbx.png');
+}
+.TEL{
+	background-image:url('img/tel.png');
+}
+.TEN{
+	background-image:url('img/ten.png');
+}
+.TERN{
+	background-image:url('img/tern.png');
+}
+.TGCH{
+	background-image:url('img/tgch.png');
+}
+.THETA{
+	background-image:url('img/theta.png');
+}
+.TIX{
+	background-image:url('img/tix.png');
+}
+.TKN{
+	background-image:url('img/tkn.png');
+}
+.TKS{
+	background-image:url('img/tks.png');
+}
+.TNB{
+	background-image:url('img/tnb.png');
+}
+.TNC{
+	background-image:url('img/tnc.png');
+}
+.TNT{
+	background-image:url('img/tnt.png');
+}
+.TOMO{
+	background-image:url('img/tomo.png');
+}
+.TPAY{
+	background-image:url('img/tpay.png');
+}
+.TRIG{
+	background-image:url('img/trig.png');
+}
+.TRTL{
+	background-image:url('img/trtl.png');
+}
+.TRX{
+	background-image:url('img/trx.png');
+}
+.TUSD{
+	background-image:url('img/tusd.png');
+}
+.TZC{
+	background-image:url('img/tzc.png');
+}
+.UBQ{
+	background-image:url('img/ubq.png');
+}
+.UNITY{
+	background-image:url('img/unity.png');
+}
+.USD{
+	background-image:url('img/usd.png');
+}
+.USDC{
+	background-image:url('img/usdc.png');
+}
+.USDT{
+	background-image:url('img/usdt.png');
+}
+.UTK{
+	background-image:url('img/utk.png');
+}
+.VERI{
+	background-image:url('img/veri.png');
+}
+.VET{
+	background-image:url('img/vet.png');
+}
+.VIA{
+	background-image:url('img/via.png');
+}
+.VIB{
+	background-image:url('img/vib.png');
+}
+.VIBE{
+	background-image:url('img/vibe.png');
+}
+.VIVO{
+	background-image:url('img/vivo.png');
+}
+.VRC{
+	background-image:url('img/vrc.png');
+}
+.VRSC{
+	background-image:url('img/vrsc.png');
+}
+.VTC{
+	background-image:url('img/vtc.png');
+}
+.VTHO{
+	background-image:url('img/vtho.png');
+}
+.WABI{
+	background-image:url('img/wabi.png');
+}
+.WAN{
+	background-image:url('img/wan.png');
+}
+.WAVES{
+	background-image:url('img/waves.png');
+}
+.WAX{
+	background-image:url('img/wax.png');
+}
+.WGR{
+	background-image:url('img/wgr.png');
+}
+.WICC{
+	background-image:url('img/wicc.png');
+}
+.WINGS{
+	background-image:url('img/wings.png');
+}
+.WPR{
+	background-image:url('img/wpr.png');
+}
+.WTC{
+	background-image:url('img/wtc.png');
+}
+.X{
+	background-image:url('img/x.png');
+}
+.XAS{
+	background-image:url('img/xas.png');
+}
+.XBC{
+	background-image:url('img/xbc.png');
+}
+.XBP{
+	background-image:url('img/xbp.png');
+}
+.XBY{
+	background-image:url('img/xby.png');
+}
+.XCP{
+	background-image:url('img/xcp.png');
+}
+.XDN{
+	background-image:url('img/xdn.png');
+}
+.XEM{
+	background-image:url('img/xem.png');
+}
+.XIN{
+	background-image:url('img/xin.png');
+}
+.XLM{
+	background-image:url('img/xlm.png');
+}
+.XMCC{
+	background-image:url('img/xmcc.png');
+}
+.XMG{
+	background-image:url('img/xmg.png');
+}
+.XMO{
+	background-image:url('img/xmo.png');
+}
+.XMR{
+	background-image:url('img/xmr.png');
+}
+.XMY{
+	background-image:url('img/xmy.png');
+}
+.XP{
+	background-image:url('img/xp.png');
+}
+.XPA{
+	background-image:url('img/xpa.png');
+}
+.XPM{
+	background-image:url('img/xpm.png');
+}
+.XRP{
+	background-image:url('img/xrp.png');
+}
+.XSG{
+	background-image:url('img/xsg.png');
+}
+.XTZ{
+	background-image:url('img/xtz.png');
+}
+.XUC{
+	background-image:url('img/xuc.png');
+}
+.XVC{
+	background-image:url('img/xvc.png');
+}
+.XVG{
+	background-image:url('img/xvg.png');
+}
+.XZC{
+	background-image:url('img/xzc.png');
+}
+.YOYOW{
+	background-image:url('img/yoyow.png');
+}
+.ZCL{
+	background-image:url('img/zcl.png');
+}
+.ZEC{
+	background-image:url('img/zec.png');
+}
+.ZEL{
+	background-image:url('img/zel.png');
+}
+.ZEN{
+	background-image:url('img/zen.png');
+}
+.ZEST{
+	background-image:url('img/zest.png');
+}
+.ZIL{
+	background-image:url('img/zil.png');
+}
+.ZILLA{
+	background-image:url('img/zilla.png');
+}
+.ZRX{
+	background-image:url('img/zrx.png');
+}
