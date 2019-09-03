@@ -26,7 +26,7 @@ $cryptolab->track_investment($investment_cur);
 
 //print yearly holdings
 $dates = array();
-for ($year=2016;$year<=date('Y');$year++){
+for ($year=2017;$year<=date('Y');$year++){
 	$dates[] = $year.'-01-01';
 }
 //print holdings today
