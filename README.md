@@ -26,3 +26,7 @@ Delete all files from the cache folder and run again.
 ## Third parties
 price data from https://min-api.cryptocompare.com/
 icons by http://cryptoicons.co/
+
+# Donate
+
+Monero: 48ZtrWdgrY9EgLjnn5XY2uRuUZ4GaivBsaswpgJuXLbzjHTYKkKq1Mc6nKvdRheMWg8YhNLQ3uzRiUcRz6JTrPiq1sStq12
