@@ -31,4 +31,5 @@ icons by http://cryptoicons.co/
 IF you enjoy this, please consider a donation:
 
 Bitcoin: 39MAk7u3nTeJxifeRUidk9sv18oqFD6ECZ
+
 Monero: 48ZtrWdgrY9EgLjnn5XY2uRuUZ4GaivBsaswpgJuXLbzjHTYKkKq1Mc6nKvdRheMWg8YhNLQ3uzRiUcRz6JTrPiq1sStq12
